@@ -31,7 +31,6 @@ See [GitHub’s publishing source guide](https://docs.github.com/en/pages/gettin
 - `app.js`: language preferences, navigation, accessible research dialogs, perspective interactions and copy-email feedback.
 - `visuals.js`: the four explanatory diagrams and the interactive triangulated background.
 - `enhancements.css`: the visual narratives, perspective strip and enhanced motion styling.
-- `assets/portrait.webp`: your supplied photograph, compressed without altering its content.
 - `assets/cv/`: the English and Persian PDF CVs. Replace these files when updating your résumé.
 
 Contact details also appear in `index.html` and `app.js` for links and copying. Update these together when changing your email, phone or LinkedIn URL.

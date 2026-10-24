@@ -116,3 +116,6 @@ html[lang=fa] .project h3{font-size:24px;line-height:1.75}
 .motion-paused .diagram-signal{display:none}
 .motion-paused .project-art .research-scene{transform:none!important}
 @media print{.lens-graphic,.title-thread{display:none}.lens{background:white;padding:25px 0}.lens-word{font-size:32px}.lens-detail{gap:25px}}
+
+/* Portrait removed: hero copy spans a single column */
+.hero-layout{grid-template-columns:1fr}
